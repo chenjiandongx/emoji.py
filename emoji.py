@@ -8,7 +8,6 @@ import pyperclip
 from fuzzywuzzy import fuzz
 from pick import pick
 
-
 THRESHOLD = 80
 VERSION = "0.1.0"
 
@@ -16,7 +15,7 @@ TITLE = "Emojis: Use arrow keys"
 
 HERE = os.path.join(
     os.path.abspath(os.path.dirname(__file__)), "emojilib")
-#
+
 with open(os.path.join(HERE, "emojis.json"), "r", encoding="utf-8") as f:
     emojis = json.load(f)
 
@@ -33,7 +32,7 @@ def get_parser():
         "-v",
         "--version",
         action="store_true",
-        help="displays the current version of youdao",
+        help="displays the current version of emoji",
     )
     return parser
 
