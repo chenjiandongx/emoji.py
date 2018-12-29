@@ -38,7 +38,7 @@ optional arguments:
 ### 示例
 
 <div align="center">
-    <img width="90%" src="https://user-images.githubusercontent.com/19553554/50540500-b4bd0b00-0bcd-11e9-9206-8357bc816d36.gif">
+    <img width="90%" src="https://user-images.githubusercontent.com/19553554/50540626-34e47000-0bd0-11e9-98b7-6888cfbe58df.gif">
 </div>
 
 
